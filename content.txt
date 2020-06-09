@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 hello ashutosh
+=======
+I am cool guy
+You are not a cool guy but a fool guy
+>>>>>>> e6448062b598e1a0ea34481641ef97fde7565e9c
